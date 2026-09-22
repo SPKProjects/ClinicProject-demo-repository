@@ -7,3 +7,9 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+.appointments.spec.ts
+.appointments-01.spec.ts
+.booking.spec.ts
+.booking01.spec.ts
+.clinic-navigation.spec.ts
+.clinic-navigation01.spec.ts
